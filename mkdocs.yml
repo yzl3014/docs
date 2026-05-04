@@ -1,0 +1,30 @@
+site_name: 软件帮助文档
+site_url: https://docs.yuanzj.top/
+
+nav:
+  - 首页: index.md
+  - 激活软件:
+    - 每日热榜: activation/trending.md
+  - 服务条款:
+    - 每日热榜: terms/trending.md
+repo_url: https://github.com/yzl3014/docs
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: zh
+  features:
+    - navigation.indexes
+    - navigation.footer
+  icon:
+    repo: fontawesome/brands/github-alt
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_javascript:
+  - analytics.js
+
+copyright: Copyright &copy; 2025 - 2026 yzl3014. All Rights Reserved.
