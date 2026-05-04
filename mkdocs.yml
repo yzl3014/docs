@@ -7,11 +7,10 @@ nav:
     - 每日热榜: activation/trending.md
   - 服务条款:
     - 每日热榜: terms/trending.md
-repo_url: https://github.com/yzl3014/docs
+repo_name: yzl3014/docs
 
 theme:
   name: material
-  custom_dir: overrides
   language: zh
   features:
     - navigation.indexes
@@ -25,6 +24,7 @@ markdown_extensions:
   - pymdownx.superfences
 
 extra_javascript:
+  - redirect.js
   - analytics.js
 
 copyright: Copyright &copy; 2025 - 2026 yzl3014. All Rights Reserved.
