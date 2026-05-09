@@ -19,4 +19,8 @@
 
 稍等片刻后，在按钮下方“您的激活码”蓝色框中，激活码将以六位数字的形式显示，将这六个数字按顺序、通过数字键盘输入到小米手环的“激活PLUS”页面中，点击“确定”按钮，即可激活成功。
 
-从获取到输入激活码（点击链接查看动图）：https://smms.app/image/rDnpmks4ByOJLVR
+!!! Note
+
+    从获取到输入激活码（点击观看GIF动态图片）：
+
+    [https://sm.ms/rDnpmks4ByOJLVR](https://sm.ms/rDnpmks4ByOJLVR)
