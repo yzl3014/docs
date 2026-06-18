@@ -3,8 +3,9 @@ site_url: https://docs.yuanzj.top/
 
 nav:
   - 首页: index.md
-  - 激活软件:
-    - 每日热榜: activation/trending.md
+  - 软件支持:
+    - 激活每日热榜: support/trending.md
+    - 今日热榜即将终止支持: support/trending-eos.md
   - 服务条款:
     - 每日热榜: terms/trending.md
 repo_name: yzl3014/docs
