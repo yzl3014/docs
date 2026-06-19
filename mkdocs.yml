@@ -18,6 +18,7 @@ theme:
     - navigation.footer
   icon:
     repo: fontawesome/brands/github-alt
+  favicon: images/favicon.ico
 
 markdown_extensions:
   - admonition
